@@ -12,6 +12,9 @@ The html file is super basic, and probably won't get much more complicated. You'
 # TODO
 
 -- Make text display work properly i.e. make Tab & whatever else work.
+
 -- Main page stylings
+
 -- Find good way to store our time data
+
 -- Make the site live
