@@ -8,3 +8,13 @@ On the main page, you type text into the text box. Each keystroke is recorded us
 The only real additional thing the javascript file does at the moment is 1) print the contents of that object to console, if you click the "Submit" button on the main page, and 2) prevent Tab from doing anything. 
 
 The html file is super basic, and probably won't get much more complicated. You're much better at this than I am, so you'll surely have no trouble reading it more quickly than I can describe it. :)
+
+# TODO
+
+-- Make text display work properly i.e. make Tab & whatever else work.
+
+-- Main page stylings
+
+-- Find good way to store our time data
+
+-- Make the site live
